@@ -5,7 +5,8 @@ Olá! Eu sou [Caroline Guimarães], desenvolvedor apaixonado por tecnologia e in
 
 ### Minhas Habilidades:
 - Boa comunicação 
-- Controle de versão com Git e GitHub
+- Trabalho em grupo
+
 
 ### Contato:
 - [LinkedIn](https://carolguimaraess10)
