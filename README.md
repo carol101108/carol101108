@@ -4,8 +4,7 @@
 Olá! Eu sou [Caroline Guimarães], desenvolvedor apaixonado por tecnologia e inovação.
 
 ### Minhas Habilidades:
-- Programação em Python, JavaScript, etc.
-- Desenvolvimento Web
+- Boa comunicação 
 - Controle de versão com Git e GitHub
 
 ### Contato:
